@@ -1,0 +1,22 @@
+{
+  "name": "time-from-now",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agenestar/time-from-now.git"
+  },
+  "author": "Andreu Genestar <andreugenestar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agenestar/time-from-now/issues"
+  },
+  "homepage": "https://github.com/agenestar/time-from-now#readme",
+  "devDependencies": {
+    "tap": "^7.0.0"
+  }
+}
